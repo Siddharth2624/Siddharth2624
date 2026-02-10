@@ -1,5 +1,5 @@
 # 💫 About Me:
-## 👋 Hi, I’m Siddharth!<br><br>🚀 Currently learning and building things in **Web Development, AI, and Systems Programming**  <br>💻 Passionate about **problem-solving, clean code, and real-world projects**<br><br>---<br><br>### 🔭 Currently Working On<br>- Improving my **full-stack development** skills  <br>- Exploring **AI & Machine Learning** concepts  <br>- Building personal projects to strengthen fundamentals<br><br>---<br><br>### 🌱 Currently Learning<br>- **JavaScript / Next.js / Backend Development**<br>- **Data Structures & Algorithms**<br>- **AI & Machine Learning basics**<br>- **Cloud & Deployment workflows**<br><br>---<br><br>### 🤝 Open to<br>- Collaborating on **open-source projects**<br>- Learning from real-world developer workflows<br>- Contributing to beginner-friendly repos<br><br>---<br><br>### 💬 Ask Me About<br>- Programming fundamentals  <br>- Full-stack project ideas  <br>- Git, GitHub, and open-source contributions  <br>- Learning tech from scratch 🚀<br><br>---<br><br>### ⚡ Fun Fact<br>I love turning *confusing concepts* into **simple, understandable logic** 😄  <br>(And I enjoy learning by building more than just reading.)<br><br>---<br><br>📫 **Let’s connect and build something cool!**<br>
+👋 Hi, I’m Siddharth!<br><br>🚀 Currently learning and building things in **Web Development, AI, and Systems Programming**  <br>💻 Passionate about **problem-solving, clean code, and real-world projects**<br><br>---<br><br> 🔭 Currently Working On<br>- Improving my **full-stack development** skills  <br>- Exploring **AI & Machine Learning** concepts  <br>- Building personal projects to strengthen fundamentals<br><br>---<br><br>### 🌱 Currently Learning<br>- **JavaScript / Next.js / Backend Development**<br>- **Data Structures & Algorithms**<br>- **AI & Machine Learning basics**<br>- **Cloud & Deployment workflows**<br><br>---<br><br> 🤝 Open to<br>- Collaborating on **open-source projects**<br>- Learning from real-world developer workflows<br>- Contributing to beginner-friendly repos<br><br>---<br><br>### 💬 Ask Me About<br>- Programming fundamentals  <br>- Full-stack project ideas  <br>- Git, GitHub, and open-source contributions  <br>- Learning tech from scratch 🚀<br><br>---<br><br>### ⚡ Fun Fact<br>I love turning *confusing concepts* into **simple, understandable logic** 😄  <br>(And I enjoy learning by building more than just reading.)<br><br>---<br><br>📫 **Let’s connect and build something cool!**<br>
 
 
 ## 🌐 Socials:
@@ -18,7 +18,7 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-### 🔝 Top Contributed Repo
+ 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Siddharth2624&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---

@@ -1,7 +1,7 @@
 # 💫 About Me
 
 👋 Hi, I’m **Siddharth**  
-🚀 A developer who loves learning by **building real projects**
+🚀 Developer who loves learning by **building real-world projects**
 
 I’m currently focused on **Web Development, AI, and Systems Programming**, with a strong interest in clean architecture, problem-solving, and scalable systems.
 
@@ -9,8 +9,8 @@ I’m currently focused on **Web Development, AI, and Systems Programming**, wit
 
 ## 🔭 Currently Working On
 - Strengthening **full-stack development** skills  
-- Building and refining **personal & open-source projects**  
-- Exploring **AI / ML concepts** through hands-on practice  
+- Building **personal & open-source projects**  
+- Exploring **AI / ML concepts** hands-on  
 
 ---
 
@@ -40,7 +40,7 @@ I’m currently focused on **Web Development, AI, and Systems Programming**, wit
 
 ## ⚡ Fun Fact
 I enjoy breaking **complex concepts** into **simple logic**  
-and prefer *building things* over just reading about them 😄
+and prefer *building things* over just reading 😄
 
 ---
 
@@ -86,19 +86,21 @@ and prefer *building things* over just reading about them 😄
 ---
 
 ## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=Siddharth2624&theme=gotham&show_icons=true&count_private=true)
-![Streak](https://nirzak-streak-stats.vercel.app/?user=Siddharth2624&theme=gotham)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Siddharth2624&layout=compact&theme=gotham)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Siddharth2624&theme=gotham&show_icons=true&count_private=true)
+
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Siddharth2624&theme=gotham)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Siddharth2624&layout=compact&theme=gotham)
 
 ---
 
 ## 🏆 GitHub Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=Siddharth2624&theme=radical&margin-w=10)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Siddharth2624&theme=radical&margin-w=10)
 
 ---
 
 ## ✍️ Random Dev Quote
-![Quote](https://quotes-github-readme.vercel.app/api?theme=dark)
+![Dev Quote](https://quotes-github-readme.vercel.app/api?theme=dark)
 
 ---
 
